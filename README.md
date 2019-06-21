@@ -28,7 +28,7 @@ local IdentifierTables = {
 
 ## Como funciona
 > O que este script manipula o ESX para carregar caracteres
-Então, quando você está escolhendo seu personagem, ele muda seu ID de vapor, que normalmente é vapor: para Char: isso evita que o ESX carregue outro caractere porque ele está procurando exatamente o vapor. Então, quando você escolher o seu personagem, ele mudará de Char: para o seu código de vapor normal (steam :). Ao criar um novo personagem, ele irá gerar você sem um steamid exato, o que cria uma nova entrada de banco de dados para o seu steamid
+Então, quando você está escolhendo seu personagem, ele muda seu ID de steam, que normalmente é steam: para Char: isso evita que o ESX carregue outro caractere porque ele está procurando exatamente a steam. Então, quando você escolher o seu personagem, ele mudará de Char: para o seu código da steam normal (steam:). Ao criar um novo personagem, ele irá gerar você sem um steamid exato, o que cria uma nova entrada de banco de dados para o seu steamid
 
 ## Créditos
 
