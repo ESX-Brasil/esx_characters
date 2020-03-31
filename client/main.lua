@@ -1,3 +1,7 @@
+--       Licensed under: AGPLv3        --
+--  GNU AFFERO GENERAL PUBLIC LICENSE  --
+--      Version 1.0.1, 31.03.2020      --
+
 ESX = nil
 Citizen.CreateThread(function()
     while ESX == nil do
